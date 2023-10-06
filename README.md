@@ -1,2 +1,73 @@
-# AlgoLeadMe-1
-🔥🔥열정이 넘치는 알고리즘 스터디 1팀 🔥🔥
+## 🌟  소개
+
+<br>
+
+**알고리즘에 대한 감각을 잃지 않게 하기 위함을 목표** 로 하는 알고리즘 스터디 입니다.
+
+<br><br>
+
+<h3>✔️ 어떤 언어를 사용하더라도 괜찮아요 !</h3>
+
+<br>
+
+문제를 풀 때마다,
+
+**- 수도코드로 어떤 식으로 문제에 접근하였는지,**
+
+**- 아무것도 모르는 사람에게 설명하듯이 글을 작성**
+
+해야 하기 때문에 어떤 언어를 사용하시던 상관없습니다.
+
+<br><br>
+
+<h3>✔️ 3~4명에서 한 팀을 이뤄요 !</h3>
+
+<br>
+
+인원 수가 너무 많으면 코드 리뷰에 시간을 너무 많이 소모하게 돼요.
+
+(다른 사람의 코드 리뷰를 할 때에도 해당 문제에 대해서 조금은 생각하기 때문이에요.)
+
+또한, 인원 수가 많아짐에 따라 소속감과 부담감이 내려가기 때문에 3~4명이 적당한 것 같아요.
+
+<br><br>
+
+<h3>✔️ 어떤 난이도의 문제건 상관 없어요 !</h3>
+
+<br>
+
+대신, **자신이 푼 문제로 다른 참여자들의 리뷰를 받는다는 점을 명심해주세요.**
+
+
+딱히 풀만한 문제가 없으시다면, [프로그래머스 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 추천드립니다!
+
+<br><hr>
+
+**🧩해당 레포지토리 스터디 참가자**
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/tgyuuAn"><img src="https://avatars.githubusercontent.com/u/116813010?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="http://github.com/pknujsp"><img src="https://avatars.githubusercontent.com/u/48265129?s=64&v=4" width="100px;" alt=""/>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/tgyuuAn" title="Code">tgyuuAn</a></td>
+    <td align="center"><a href="https://github.com/pknujsp" title="Code">pknujsp</a></td>
+  </tr>
+</table>
+
+<br><br>
+
+## 🤝 규칙
+
+- 스터디를 시작한 날짜로 부터 **2일에 1 문제**씩 제출.
+
+  **스터디 시작 날짜 :**
+
+<br>
+
+- 다른 참가자들은 **다음 제출일이 되기 전 까지 다른 참가자들의 코드를 리뷰** 한다.
+
+<br>
+
+- 코드 리뷰에 대해 **일방적인 비판은 절대 No. 😢  건강한 토론은 OK! 😊**
