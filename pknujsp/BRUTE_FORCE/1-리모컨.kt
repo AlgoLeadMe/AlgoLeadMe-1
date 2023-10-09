@@ -26,9 +26,9 @@ fun main() {
         }.sorted()
 
         // 숫자 버튼 클릭 만으로 목표 채널로 이동할 때의 클릭 횟수
-        val pressCountOnlyWithChannelButtons = abs(defaultChannel - targetChannel)
+        val pressCountOnlyWithNumberButtons = abs(defaultChannel - targetChannel)
         // 최소 횟수 갱신
-        var minPressesCount = pressCountOnlyWithChannelButtons
+        var minPressesCount = pressCountOnlyWithNumberButtons
 
         targetChannel.toString().map { it.toString().toInt() }.let { targetChannelNumbers ->
             if (targetChannelNumbers.all { it in workingNumberButtons }) {
