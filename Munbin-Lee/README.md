@@ -6,4 +6,5 @@
 | 2차시 | 2022.10.11 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152995">인사고과</a> |
 | 3차시 | 2022.10.14 |  DP  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a> |
 | 4차시 | 2022.10.15 |  이분탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12927">야근 지수</a> |
+| 5차시 | 2022.10.17 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/160585">혼자서 하는 틱택토</a> |
 ---
