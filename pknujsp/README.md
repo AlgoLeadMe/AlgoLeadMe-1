@@ -7,3 +7,4 @@
 | 3차시 | 2023.10.11 |    SORT     | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941?language=python3) |
 | 4차시 | 2023.10.13 |    SORT     |              [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)              |
 | 5차시 | 2023.10.15 |    구현     |           [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)            |
+| 6차시 | 2023.10.17 |    탐색     |     [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)      |
