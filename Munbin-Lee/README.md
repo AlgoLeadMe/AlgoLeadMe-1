@@ -8,4 +8,6 @@
 | 4차시 | 2022.10.15 |  이분탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12927">야근 지수</a> |
 | 5차시 | 2022.10.17 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/160585">혼자서 하는 틱택토</a> |
 | 6차시 | 2022.10.19 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/147354">테이블 해시 함수</a> |
+| 7차시 | 2022.10.22 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181188">요격 시스템</a> |
+| 8차시 | 2022.10.23 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486">다단계 칫솔 판매</a> |
 ---
