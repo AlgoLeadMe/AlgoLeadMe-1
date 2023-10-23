@@ -11,3 +11,4 @@
 | 7차시 | 2023.10.19 |    탐색     |          [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)          | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/20) |
 | 8차시 | 2023.10.21 |    탐색     |       [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)        | [#22](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/22) |
 | 9차시 | 2023.10.23 |  자료구조   |           [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)            | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/25) |
+=======
