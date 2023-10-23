@@ -10,3 +10,4 @@
 | 6차시 | 2023.10.17 |    탐색     |     [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)      |
 | 7차시 | 2023.10.19 |    탐색     |          [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)          |
 | 8차시 | 2023.10.21 |    탐색     |       [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)        |
+| 9차시 | 2023.10.23 |  자료구조   |           [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)            |
