@@ -10,4 +10,5 @@
 | 6차시 | 2022.10.17 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134239">우박수열 정적분</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/15 |
 | 7차시 | 2022.10.19 |  수학  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181187">두 원 사이의 정수 쌍</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/19 |
 | 8차시 | 2022.10.17 |  수학  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12923">숫자 블록</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/21 |
+| 9차시 | 2022.10.23 |  완전 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86052">빛의 경로 사이클</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/26 |
 ---
