@@ -12,4 +12,5 @@
 | 8차시 | 2023.10.17 |  수학  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12923">숫자 블록</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/21 |
 | 9차시 | 2023.10.23 |  완전 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86052">빛의 경로 사이클</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/26 |
 | 10차시 | 2023.10.25 |  분할 정복  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/148652">유사 칸토어 비트열</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/29 |
+| 11차시 | 2023.10.28 |  문자열  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">문자열 압축</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/31 |
 ---
