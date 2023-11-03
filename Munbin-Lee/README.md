@@ -10,5 +10,7 @@
 | 7차시 | 2023.10.22 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/181188">요격 시스템</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/23 |
 | 8차시 | 2023.10.23 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486">다단계 칫솔 판매</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/24 |
 | 9차시 | 2023.10.25 |  DP  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42897">도둑질</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/27 |
-| 10차시 | 2023.10.28 |  이분탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64063">호텔 방 배정</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/31 |
+| 10차시 | 2023.10.28 |  트리  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64063">호텔 방 배정</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/31 |
+| 11차시 | 2023.10.31 |  트리  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/155651">호텔 대실</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/37 |
+| 12차시 | 2023.11.01 |  투포인터  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67258">보석 쇼핑</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/38 |
 ---
