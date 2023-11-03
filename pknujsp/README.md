@@ -10,8 +10,9 @@
 | 6차시  | 2023.10.17 |    탐색     |     [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)      | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/16) |
 | 7차시  | 2023.10.19 |    탐색     |          [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)          | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/20) |
 | 8차시  | 2023.10.21 |    탐색     |       [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)        | [#22](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/22) |
-| 9차시  | 2023.10.23 |  맵   |           [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)            | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/25) |
+| 9차시  | 2023.10.23 |     맵      |           [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)            | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/25) |
 | 10차시 | 2023.10.25 |    구현     |          [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)           | [#28](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/28) |
-| 11차시 | 2023.10.27 |  리스트   |         [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)          | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/30) |
-| 12차시 | 2023.10.30 |  큐   |         [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)         | [#36](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/36) |
-| 13차시 | 2023.11.01 |  DP   |         [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)         | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/39) |
+| 11차시 | 2023.10.27 |   리스트    |         [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)          | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/30) |
+| 12차시 | 2023.10.30 |     큐      |         [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)         | [#36](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/36) |
+| 13차시 | 2023.11.01 |     DP      |             [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)             | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/39) |
+| 14차시 | 2023.11.03 |     맵      |           [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)           | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/43) |
