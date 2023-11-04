@@ -4,6 +4,5 @@ def solution(a, b, n):
         remain_bottle = n%a
         n = (n//a)*b
         answer += n
-        n += remain_bottle
-        
+        n += remain_bottle  
     return answer
