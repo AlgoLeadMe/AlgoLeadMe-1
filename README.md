@@ -99,3 +99,17 @@ ex) 1-tgyuuAn
 문제 해결 날짜
 ex) 2023-10-06
 ```
+
+<br>
+
+## 🤔 협업이 힘들어요!
+
+아래 **Wiki** 에서 **Git 설치부터 PR작성, 리드미 작성, 코드리뷰** 하는 방법에 대한 **모든 내용**을 보실 수 있습니다.
+
+협업에 대한 두려움 떨쳐내시고 함께 스터디해요!
+
+[📄 AlgoLeadMe 협업 방법 소개 Wiki](https://github.com/AlgoLeadMe/AlgoLeadMe-1/wiki/%F0%9F%93%84-AlgoLeadMe-%ED%98%91%EC%97%85-%EB%B0%A9%EB%B2%95-%EC%86%8C%EA%B0%9C-Wiki)
+
+<br><br>
+
+<img src = "https://github.com/AlgoLeadMe/AlgoLeadMe-1/assets/116813010/98d0cd2b-6f21-4544-b3af-16df80f8e653" width = 600>
