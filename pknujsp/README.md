@@ -16,3 +16,4 @@
 | 12차시 | 2023.10.30 |     큐      |         [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)         | [#36](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/36) |
 | 13차시 | 2023.11.01 |     DP      |             [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)             | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/39) |
 | 14차시 | 2023.11.03 |     맵      |           [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)           | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/43) |
+| 15차시 | 2023.11.05 |    수학     |          [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)           | [#47](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/47) |
