@@ -15,5 +15,6 @@
 | 11차시 | 2023.10.28 |  문자열  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">문자열 압축</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/31 |
 | 12차시 | 2023.10.30 |  스택  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176962#">과제 진행하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/34 
 | 13차시 | 2023.11.01 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">택배 배달과 수거하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/40 
-| 15차시 | 2023.11.04 |  이진 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/45
+| 14차시 | 2023.11.05 |  이진 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/45
+| 16차시 | 2023.11.07 |  완전 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368">이모티콘 할인행사</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/50
 ---
