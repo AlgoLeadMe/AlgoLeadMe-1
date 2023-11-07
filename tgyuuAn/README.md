@@ -13,7 +13,8 @@
 | 9차시 | 2023.10.23 |  완전 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86052">빛의 경로 사이클</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/26 |
 | 10차시 | 2023.10.25 |  분할 정복  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/148652">유사 칸토어 비트열</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/29 |
 | 11차시 | 2023.10.28 |  문자열  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">문자열 압축</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/31 |
-| 12차시 | 2023.10.30 |  스택  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176962#">과제 진행하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/34 
+| 12차시 | 2023.11.01 |  스택  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176962#">과제 진행하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/34 
 | 13차시 | 2023.11.01 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">택배 배달과 수거하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/40 
-| 15차시 | 2023.11.04 |  이진 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/45
+| 14차시 | 2023.11.04 |  이진 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/45
+| 15차시 | 2023.11.05 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860#">조이스틱</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/47 
 ---
