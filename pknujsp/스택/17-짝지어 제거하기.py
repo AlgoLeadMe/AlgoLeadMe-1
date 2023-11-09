@@ -1,5 +1,6 @@
 from collections import *
 
+
 def solution(text):
     if len(text) % 2 == 1:
         return 0
@@ -10,5 +11,5 @@ def solution(text):
             non_pairs.pop()
         else:
             non_pairs.append(char)
-    
+
     return int(len(non_pairs) == 0)
