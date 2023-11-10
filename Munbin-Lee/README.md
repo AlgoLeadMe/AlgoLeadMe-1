@@ -15,5 +15,5 @@
 | 12차시 | 2023.11.01 |  투포인터  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67258">보석 쇼핑</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/38 |
 | 13차시 | 2023.11.04 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87391">공 이동 시뮬레이션</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/44 |
 | 14차시 | 2023.11.06 |  DP  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131129">카운트 다운</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/49 |
-| 15차시 | 2023.11.08 |  구현  | <a href="https://level.goorm.io/exam/175928/%EA%B7%9C%EC%B9%99-%EC%88%AB%EC%9E%90-%EC%95%BC%EA%B5%AC/quiz/1">규칙 숫자 야구</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/53 |
+| 15차시 | 2023.11.10 |  위상정렬  | <a href="https://www.acmicpc.net/problem/2056">작업</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/56 |
 ---
