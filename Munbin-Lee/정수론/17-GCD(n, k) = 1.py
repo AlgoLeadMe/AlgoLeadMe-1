@@ -1,6 +1,3 @@
-from itertools import combinations
-from math import prod
-
 tempN = n = int(open(0).read())
 div = 2
 factors = []
@@ -18,8 +15,23 @@ if tempN > 1:
 
 answer = n
 
-for i in range(1, len(factors) + 1):
-    for comb in combinations(factors, i):
-        answer -= n // prod(comb) * (i % 2 and 1 or -1)
+
+def dfs(cur, curBit):
+    global answer
+    if cur == len(factors):
+        if curBit == 0: return
+        prod = 1
+        for idx, factor in enumerate(factors):
+            if curBit & (1 << idx):
+                prod *= factor
+        hasEvenBit = bin(curBit).count('1') % 2 == 0
+        answer += n // prod * (hasEvenBit and 1 or -1)
+        return
+
+    dfs(cur + 1, curBit)
+    dfs(cur + 1, curBit | (1 << cur))
+
+
+dfs(0, 0)
 
 print(answer)
