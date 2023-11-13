@@ -7,5 +7,6 @@
 | 3차시 | 2023.11.03 |  구현  | [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/42|
 | 4차시 | 2023.11.05 |  그리디  | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/46|
 | 5차시 | 2023.11.07 |  그리디  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/51|
+| 6차시 | 2023.11.09 |  구현  | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/55|
 ---
 
