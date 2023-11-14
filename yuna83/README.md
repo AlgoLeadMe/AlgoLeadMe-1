@@ -8,6 +8,7 @@
 | 4차시 | 2023.11.05 |  그리디  | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/46|
 | 5차시 | 2023.11.07 |  그리디  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/51|
 | 6차시 | 2023.11.09 |  구현  | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/55|
-| 6차시 | 2023.11.11 |  완전탐색  | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/58|
+| 7차시 | 2023.11.11 |  완전 탐색  | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/58|
+| 8차시 | 2023.11.13 |  완전 탐색  | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/59|
 ---
 

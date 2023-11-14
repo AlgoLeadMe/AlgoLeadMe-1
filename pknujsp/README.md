@@ -17,3 +17,5 @@
 | 13차시 | 2023.11.01 |     DP      |             [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)             | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/39) |
 | 14차시 | 2023.11.03 |     맵      |           [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)           | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/43) |
 | 15차시 | 2023.11.05 |    수학     |          [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)           | [#47](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/47) |
+| 16차시 | 2023.11.08 |    수학     |         [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)         | [#51](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/51) |
+| 17차시 | 2023.11.10 |    스택     |        [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         | [#54](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/54) |
