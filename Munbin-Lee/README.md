@@ -18,5 +18,5 @@
 | 15차시 | 2023.11.08 |  구현  | <a href="https://level.goorm.io/exam/175928/%EA%B7%9C%EC%B9%99-%EC%88%AB%EC%9E%90-%EC%95%BC%EA%B5%AC/quiz/1">규칙 숫자 야구</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/53 |
 | 16차시 | 2023.11.10 |  위상정렬  | <a href="https://www.acmicpc.net/problem/2056">작업</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/56 |
 | 17차시 | 2023.11.12 |  정수론  | <a href="https://www.acmicpc.net/problem/11689">GCD(n, k) = 1</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/57 |
-| 18차시 | 2023.11.17 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/61 |
+| 18차시 | 2023.11.17 |  투포인터  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/61 |
 ---
