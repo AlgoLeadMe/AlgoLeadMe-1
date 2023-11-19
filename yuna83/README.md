@@ -11,4 +11,7 @@
 | 7차시 | 2023.11.11 |  완전 탐색  | [최소 직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/58|
 | 8차시 | 2023.11.13 |  완전 탐색  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/59|
 | 9차시 | 2023.11.15 |  완전 탐색  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/62|---
+=======
+| 8차시 | 2023.11.13 |  완전 탐색  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/59|---
+---
 
