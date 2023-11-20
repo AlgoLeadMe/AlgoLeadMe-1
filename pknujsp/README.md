@@ -21,4 +21,4 @@
 | 17차시 | 2023.11.10 |    스택     |        [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         | [#54](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/54) |
 | 18차시 | 2023.11.13 |    구현     |         [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)          | [#60](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/60) |
 | 19차시 | 2023.11.17 |    구현     |             [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)             | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/64) |
-| 20차시 | 2023.11.20 |   문자열    |          [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)           | [#69](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/69) |
+| 20차시 | 2023.11.20 |   문자열    |          [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)           | [#70](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/70)  |
