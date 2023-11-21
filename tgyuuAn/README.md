@@ -18,4 +18,5 @@
 | 14차시 | 2023.11.04 |  이진 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/45
 | 15차시 | 2023.11.05 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860#">조이스틱</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/47 
 | 16차시 | 2023.11.07 |  완전 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368">이모티콘 할인행사</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/50
+| 18차시 | 2023.11.17 |  위상정렬  | <a href="https://www.acmicpc.net/problem/2637">장난감 조립</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/63
 ---
