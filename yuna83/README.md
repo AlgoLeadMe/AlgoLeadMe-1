@@ -14,4 +14,5 @@
 | 10차시 | 2023.11.17 |  해시  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/66|
 | 11차시 | 2023.11.19 |  구현  | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/67|
 | 12차시 | 2023.11.21 |  구현  | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/72|
+| 13차시 | 2023.11.23 |  DFS/BFS  | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/76|
 ---
