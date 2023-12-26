@@ -25,4 +25,6 @@
 | 21차시 | 2023.11.23 |  플로이드 워셜  | <a href="https://www.acmicpc.net/problem/2610">회의 준비</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/74
 | 22차시 | 2023.11.25 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1238">파티</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/78
 | 23차시 | 2023.12.01 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1504">특정한 최단 경로</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/84
+| 23차시 | 2023.12.01 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1504">특정한 최단 경로</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/84
+| 25차시 | 2023.12.26 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49190#">방의 개수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/90
 ---
