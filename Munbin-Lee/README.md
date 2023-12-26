@@ -20,5 +20,6 @@
 | 17차시 | 2023.11.12 |  정수론  | <a href="https://www.acmicpc.net/problem/11689">GCD(n, k) = 1</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/57 |
 | 18차시 | 2023.11.17 |  투포인터  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12904">가장 긴 팰린드롬</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/61 |
 | 19차시 | 2023.11.20 |  투포인터  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/178870">연속된 부분 수열의 합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/69 |
+| 20차시 | 2023.11.23 |  유니온파인드  | <a href="https://leetcode.com/problems/redundant-connection-ii">Redundant Connection II</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/75 |
 | 21차시 | 2023.11.27 |  슬라이딩윈도우  | <a href="https://www.acmicpc.net/problem/11003">최솟값 찾기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/80 |
 ---
