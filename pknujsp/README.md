@@ -26,3 +26,4 @@
 | 22차시 | 2023.11.26 |    그리디    |            [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)            | [#79](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/79)  |
 | 23차시 | 2023.11.30 |  다익스트라  |                          [지름길](https://www.acmicpc.net/problem/1446)                           | [#82](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/82)  |
 | 24차시 | 2023.12.23 | 플로이드와셜 |              [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)              | [#88](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/88)  |
+| 25차시 | 2023.12.27 |     BFS      |                          [토마토](https://www.acmicpc.net/problem/7569)                           | [#93](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/93)  |
