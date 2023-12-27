@@ -23,3 +23,5 @@
 | 19차시 | 2023.11.17 |    구현     |             [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)             | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/64) |
 | 20차시 | 2023.11.20 |   문자열    |          [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)           | [#70](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/70)  |
 | 21차시 | 2023.11.23 |     맵      |              [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)              | [#73](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/73)  |
+| 22차시 | 2023.11.26 |   그리디    |            [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)            | [#79](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/79)  |
+| 23차시 | 2023.11.30 | 다익스트라  |                          [지름길](https://www.acmicpc.net/problem/1446)                           | [#82](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/82)  |
