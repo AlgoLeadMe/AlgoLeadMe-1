@@ -24,4 +24,5 @@
 | 21차시 | 2023.11.27 |  슬라이딩윈도우  | <a href="https://www.acmicpc.net/problem/11003">최솟값 찾기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/80 |
 | 22차시 | 2023.12.06 |  다익스트라  | <a href="https://www.acmicpc.net/problem/5719">거의 최단 경로</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/85 |
 | 23차시 | 2023.12.23 |  이분탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12920">선입 선출 스케줄링</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/89 |
+| 25차시 | 2023.1.02 |  이분탐색  | <a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/97 |
 ---
