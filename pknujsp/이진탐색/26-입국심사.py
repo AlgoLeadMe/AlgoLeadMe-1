@@ -4,10 +4,7 @@ def solution(n, times):
 
     while left < right:
         mid = (left + right) // 2
-        count = 0
-
-        for time in times:
-            count += mid // time
+        count = sum(mid // time for time in times)
 
         if count < n:
             left = mid + 1
