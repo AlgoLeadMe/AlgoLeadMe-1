@@ -23,6 +23,7 @@
 | 19차시 | 2023.11.19 |  위상정렬  | <a href="https://www.acmicpc.net/problem/3665">최종 순위</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/68
 | 20차시 | 2023.11.21 |  위상정렬  | <a href="https://www.acmicpc.net/submit/1766/69544449">문제집</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/71
 | 21차시 | 2023.11.23 |  플로이드 워셜  | <a href="https://www.acmicpc.net/problem/2610">회의 준비</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/74
-| 22차시 | 2023.11.25 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1238">파티</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/78
+| 22차시 | 2023.11.23 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1238">파티</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/78
 | 23차시 | 2023.12.01 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1504">특정한 최단 경로</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/84
+| 24차시 | 2023.12.23 |  다익스트라  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189">가장 먼 노드</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/86
 ---
