@@ -25,5 +25,6 @@
 | 22차시 | 2023.12.06 |  다익스트라  | <a href="https://www.acmicpc.net/problem/5719">거의 최단 경로</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/85 |
 | 23차시 | 2023.12.23 |  이분탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12920">선입 선출 스케줄링</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/89 |
 | 24차시 | 2023.12.26 |  중간에서만나기  | <a href="https://www.acmicpc.net/problem/2295">세 수의 합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/91 |
-| 25차시 | 2024.1.02 |  투포인터  | <a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/97 |
+| 25차시 | 2024.01.02 |  투포인터  | <a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/97 |
+| 26차시 | 2024.01.06 |  그리디  | <a href="https://www.acmicpc.net/problem/28703">Double It</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/102 |
 ---
