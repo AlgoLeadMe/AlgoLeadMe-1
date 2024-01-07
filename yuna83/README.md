@@ -19,4 +19,6 @@
 | 15차시 | 2023.11.27 |  DFS/BFS  | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/81|
 | 16차시 | 2023.11.30 |  다익스트라  | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/83|
 | 17차시 | 2023.12.23 |  스택/큐  | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/87|
+| 18차시 | 2023.12.26 |  다익스트라  | [최단 경로](https://www.acmicpc.net/problem/1753)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/92|
+| 19차시 | 2023.12.29 |  다익스트라  | [지름길](https://www.acmicpc.net/problem/1446)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/94|
 ---
