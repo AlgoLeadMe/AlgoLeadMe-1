@@ -27,4 +27,5 @@
 | 23차시 | 2023.12.01 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1504">특정한 최단 경로</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/84
 | 24차시 | 2023.12.23 |  다익스트라  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189">가장 먼 노드</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/86
 | 25차시 | 2023.12.26 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49190#">방의 개수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/90
+| 30차시 | 2023.01.10 |  BFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87694#">아이템 줍기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/104
 ---
