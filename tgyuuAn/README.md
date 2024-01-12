@@ -28,4 +28,5 @@
 | 24차시 | 2023.12.23 |  다익스트라  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189">가장 먼 노드</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/86
 | 25차시 | 2023.12.26 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49190#">방의 개수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/90
 | 27차시 | 2024.01.01 |  BFS  | <a href="https://www.acmicpc.net/problem/9376">탈옥</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/96
+| 28차시 | 2023.01.04 |  스택  | <a href="https://www.acmicpc.net/problem/6549">히스토그램에서 가장 큰 직사각형</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/99
 ---
