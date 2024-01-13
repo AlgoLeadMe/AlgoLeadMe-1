@@ -27,4 +27,5 @@
 | 24차시 | 2023.12.26 |  중간에서만나기  | <a href="https://www.acmicpc.net/problem/2295">세 수의 합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/91 |
 | 25차시 | 2024.01.02 |  투포인터  | <a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/97 |
 | 26차시 | 2024.01.06 |  그리디  | <a href="https://www.acmicpc.net/problem/1898">이전 수열은 어떤 수열일까</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/102 |
+| 27차시 | 2024.01.13 |  ???  | <a href="https://www.acmicpc.net/problem/14948">군대탈출하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/106 |
 ---
