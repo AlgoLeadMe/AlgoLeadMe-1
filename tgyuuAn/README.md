@@ -31,4 +31,5 @@
 | 27차시 | 2024.01.01 |  BFS  | <a href="https://www.acmicpc.net/problem/9376">탈옥</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/96
 | 28차시 | 2023.01.04 |  스택  | <a href="https://www.acmicpc.net/problem/6549">히스토그램에서 가장 큰 직사각형</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/99
 | 29차시 | 2023.01.07 |  그리디  | <a href="https://www.acmicpc.net/problem/1083">소트</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/103
+| 31차시 | 2023.01.13 |  DP  | <a href="https://www.acmicpc.net/problem/17485">진우의 달 여행 (Large)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/105
 ---
