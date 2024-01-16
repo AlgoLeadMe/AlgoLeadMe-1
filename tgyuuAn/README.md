@@ -32,4 +32,5 @@
 | 28차시 | 2023.01.04 |  스택  | <a href="https://www.acmicpc.net/problem/6549">히스토그램에서 가장 큰 직사각형</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/99
 | 29차시 | 2023.01.07 |  그리디  | <a href="https://www.acmicpc.net/problem/1083">소트</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/103
 | 30차시 | 2023.01.10 |  BFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87694#">아이템 줍기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/104
+| 32차시 | 2023.01.16 |  그리디  | <a href="https://www.acmicpc.net/problem/1700">멀티탭 스케줄링</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/108
 ---
