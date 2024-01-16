@@ -1,6 +1,6 @@
 ## ✏️ 기록   
-| 차시 |    날짜    | 문제유형 | 링크 |
-|:----:|:---------:|:----:|:-----:|
+| 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
+|:----:|:---------:|:----:|:-----:|:----:|
 | 1차시 | 2023.10.09 |  백트래킹  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132266">부대복귀</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/3 |
 | 2차시 | 2023.10.11 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152995">인사고과</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/6 |
 | 3차시 | 2023.10.14 |  DP  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/11 |
