@@ -26,4 +26,10 @@
 | 22차시 | 2023.11.23 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1238">파티</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/78
 | 23차시 | 2023.12.01 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1504">특정한 최단 경로</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/84
 | 24차시 | 2023.12.23 |  다익스트라  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189">가장 먼 노드</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/86
+| 25차시 | 2023.12.26 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49190#">방의 개수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/90
+| 26차시 | 2023.12.29 |  BFS  | <a href="https://www.acmicpc.net/problem/3197">백조의 호수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/95
+| 27차시 | 2024.01.01 |  BFS  | <a href="https://www.acmicpc.net/problem/9376">탈옥</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/96
+| 28차시 | 2023.01.04 |  스택  | <a href="https://www.acmicpc.net/problem/6549">히스토그램에서 가장 큰 직사각형</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/99
+| 29차시 | 2023.01.07 |  그리디  | <a href="https://www.acmicpc.net/problem/1083">소트</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/103
+| 30차시 | 2023.01.10 |  BFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87694#">아이템 줍기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/104
 ---
