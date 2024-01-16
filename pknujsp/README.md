@@ -29,3 +29,4 @@
 | 25차시 | 2023.12.27 |     BFS      |                          [토마토](https://www.acmicpc.net/problem/7569)                           |  [#93](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/93)  |
 | 26차시 | 2024.01.02 |   이진탐색   |            [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)            |  [#98](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/98)  |
 | 27차시 | 2024.01.05 |      DP      |           [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)           | [#101](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/101) |
+| 28차시 | 2024.01.16 |    그리디    |       [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)       | [#110](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/110) |
