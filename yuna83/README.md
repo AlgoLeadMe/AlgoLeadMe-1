@@ -22,4 +22,5 @@
 | 18차시 | 2023.12.26 |  다익스트라  | [최단 경로](https://www.acmicpc.net/problem/1753)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/92|
 | 19차시 | 2023.12.29 |  다익스트라  | [지름길](https://www.acmicpc.net/problem/1446)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/94|
 | 20차시 | 2024.01.04 |  다익스트라  | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/100|
+| 21차시 | 2024.01.13 |  구현  | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/107|
 ---
