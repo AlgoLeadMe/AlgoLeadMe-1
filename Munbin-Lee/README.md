@@ -1,6 +1,6 @@
 ## ✏️ 기록   
-| 차시 |    날짜    | 문제유형 | 링크 |
-|:----:|:---------:|:----:|:-----:|
+| 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
+|:----:|:---------:|:----:|:-----:|:----:|
 | 1차시 | 2023.10.09 |  백트래킹  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132266">부대복귀</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/3 |
 | 2차시 | 2023.10.11 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152995">인사고과</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/6 |
 | 3차시 | 2023.10.14 |  DP  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43105">정수 삼각형</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/11 |
@@ -28,4 +28,5 @@
 | 25차시 | 2024.01.02 |  투포인터  | <a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/97 |
 | 26차시 | 2024.01.06 |  그리디  | <a href="https://www.acmicpc.net/problem/1898">이전 수열은 어떤 수열일까</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/102 |
 | 27차시 | 2024.01.13 |  다익스트라  | <a href="https://www.acmicpc.net/problem/14948">군대탈출하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/106 |
+| 28차시 | 2024.01.16 |  그래프  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258711">도넛과 막대 그래프</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/109 |
 ---
