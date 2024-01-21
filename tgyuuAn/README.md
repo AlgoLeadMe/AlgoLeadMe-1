@@ -33,4 +33,5 @@
 | 29차시 | 2023.01.07 |  그리디  | <a href="https://www.acmicpc.net/problem/1083">소트</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/103
 | 30차시 | 2023.01.10 |  BFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87694#">아이템 줍기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/104
 | 31차시 | 2023.01.13 |  DP  | <a href="https://www.acmicpc.net/problem/17485">진우의 달 여행 (Large)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/105
+| 32차시 | 2023.01.21 |  이진 탐색  | <a href="https://www.acmicpc.net/problem/1981">배열에서 이동</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/115
 ---
