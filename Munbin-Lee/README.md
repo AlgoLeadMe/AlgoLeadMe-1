@@ -29,4 +29,5 @@
 | 26차시 | 2024.01.06 |  그리디  | <a href="https://www.acmicpc.net/problem/1898">이전 수열은 어떤 수열일까</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/102 |
 | 27차시 | 2024.01.13 |  다익스트라  | <a href="https://www.acmicpc.net/problem/14948">군대탈출하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/106 |
 | 28차시 | 2024.01.16 |  그래프  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258711">도넛과 막대 그래프</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/109 |
+| 29차시 | 2024.01.19 |  유니온파인드  | <a href="https://www.acmicpc.net/problem/1043">거짓말</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/114 |
 ---
