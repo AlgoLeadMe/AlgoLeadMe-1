@@ -25,4 +25,5 @@
 | 21차시 | 2024.01.13 |  구현  | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/107|
 | 22차시 | 2024.01.16 |  DFS/BFS  | [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=python3)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/111|
 | 23차시 | 2024.01.19 |  DFS/BFS  | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/113|
+| 24차시 | 2024.01.22 |  스택/큐  | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/117|
 ---
