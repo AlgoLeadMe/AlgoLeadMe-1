@@ -32,3 +32,4 @@
 | 28차시 | 2024.01.16 |     그리디      |       [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)       | [#110](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/110) |
 | 29차시 | 2024.01.18 | DFS, UNION-FIND |                       [순열 사이클](https://www.acmicpc.net/problem/10451)                        | [#112](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/112) |
 | 30차시 | 2024.01.23 |       DP        |                           [ABBC](https://www.acmicpc.net/problem/25381)                           | [#119](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/119) |
+| 31차시 | 2024.01.30 |       SORT        |                          [멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869)                           | [#123](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/123) |
