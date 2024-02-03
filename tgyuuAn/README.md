@@ -35,4 +35,5 @@
 | 31차시 | 2023.01.13 |  DP  | <a href="https://www.acmicpc.net/problem/17485">진우의 달 여행 (Large)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/105
 | 32차시 | 2023.01.16 |  그리디  | <a href="https://www.acmicpc.net/problem/1700">멀티탭 스케줄링</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/108
 | 34차시 | 2023.01.22 |  힙  | <a href="https://www.acmicpc.net/problem/1655">가운데를 말해요</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/116
+| 36차시 | 2023.02.04 |  BFS  | <a href="https://www.acmicpc.net/problem/4991">로봇 청소기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/126
 ---
