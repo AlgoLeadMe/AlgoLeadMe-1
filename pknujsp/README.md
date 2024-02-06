@@ -34,3 +34,4 @@
 | 30차시 | 2024.01.23 |       DP        |                           [ABBC](https://www.acmicpc.net/problem/25381)                           | [#119](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/119) |
 | 31차시 | 2024.01.30 |      SORT       |                        [멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869)                        | [#123](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/123) |
 | 32차시 | 2024.02.04 |       BFS       |                        [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                        | [#127](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/127) |
+| 33차시 | 2024.02.06 |       큐        |                           [철로](https://www.acmicpc.net/problem/13334)                           | [#132](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/132) |
