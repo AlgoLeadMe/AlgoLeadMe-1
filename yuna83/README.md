@@ -23,4 +23,10 @@
 | 19차시 | 2023.12.29 |  다익스트라  | [지름길](https://www.acmicpc.net/problem/1446)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/94|
 | 20차시 | 2024.01.04 |  다익스트라  | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/100|
 | 21차시 | 2024.01.13 |  구현  | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/107|
+| 22차시 | 2024.01.16 |  DFS/BFS  | [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=python3)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/111|
+| 23차시 | 2024.01.19 |  DFS/BFS  | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/113|
+| 24차시 | 2024.01.22 |  스택/큐  | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/117|
+| 25차시 | 2024.01.25 |  스택/큐  | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/121|
+| 26차시 | 2024.01.30 |  딕셔너리  | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/125|
+| 27차시 | 2024.02.05 |  투포인터  | [좋다](https://www.acmicpc.net/problem/1253)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/129|
 ---
