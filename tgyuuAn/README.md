@@ -4,7 +4,7 @@
 |:----:|:---------:|:----:|:-----:|:----:|
 | 1차시 | 2023.10.07 |  BFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/169199">리코쳇 로봇</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/1 |
 | 2차시 | 2023.10.09 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/172927#">광물 캐기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/4 |
-| 3차시 | 2023.10.11 |  이진 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/142085">디펜스 게임</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/7 |
+| 3차시 | 2023.10.11 |  이분 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/142085">디펜스 게임</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/7 |
 | 4차시 | 2023.10.13 |  완전 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890">후보키</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/10 |
 | 5차시 | 2023.10.15 |  완전 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131130">혼자 놀기의 달인</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/12 |
 | 6차시 | 2023.10.17 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/134239">우박수열 정적분</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/15 |
@@ -15,7 +15,7 @@
 | 11차시 | 2023.10.28 |  문자열  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">문자열 압축</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/31 |
 | 12차시 | 2023.11.01 |  스택  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/176962#">과제 진행하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/34 
 | 13차시 | 2023.11.01 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">택배 배달과 수거하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/41 
-| 14차시 | 2023.11.04 |  이진 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/45
+| 14차시 | 2023.11.04 |  이분 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">순위 검색</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/45
 | 15차시 | 2023.11.05 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42860#">조이스틱</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/47 
 | 16차시 | 2023.11.07 |  완전 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368">이모티콘 할인행사</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/50
 | 17차시 | 2023.11.15 |  위상정렬  | <a href="https://www.acmicpc.net/problem/1005">ACM Craft</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/61
@@ -34,6 +34,7 @@
 | 30차시 | 2023.01.10 |  BFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87694#">아이템 줍기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/104
 | 31차시 | 2023.01.13 |  DP  | <a href="https://www.acmicpc.net/problem/17485">진우의 달 여행 (Large)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/105
 | 32차시 | 2023.01.16 |  그리디  | <a href="https://www.acmicpc.net/problem/1700">멀티탭 스케줄링</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/108
+| 33차시 | 2023.01.19 |  이분 탐색  | <a href="https://www.acmicpc.net/problem/1981">배열에서 이동</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/115
 | 34차시 | 2023.01.22 |  힙  | <a href="https://www.acmicpc.net/problem/1655">가운데를 말해요</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/116
 | 35차시 | 2023.01.25 |  이분 탐색  | <a href="https://www.acmicpc.net/problem/2110">공유기 설치</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/120
 | 36차시 | 2023.02.04 |  BFS  | <a href="https://www.acmicpc.net/problem/4991">로봇 청소기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/126
