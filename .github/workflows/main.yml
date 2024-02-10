@@ -1,0 +1,14 @@
+name: Discord Notification
+on:
+    pull_request:
+        types: [opened, reopened]
+jobs:
+    PR:
+        runs-on: ubuntu-latest
+        steps:
+            -
+                env:
+                    BODY: ${{ toJson(github.event.pull_request.body) }}
+                run: echo "PROBLEM=$(echo $BODY | grep -Pio 'http[\w\:\/\.-]+' | head -1)" >> $GITHUB_ENV
+            -
+                run: curl -X POST -H 'Content-type:application/json' -d '{"username":${{toJson(github.event.sender.login)}},"avatar_url":${{toJson(github.event.sender.avatar_url)}},"embeds":[{"title":${{toJson(github.event.pull_request.title)}},"description":"새로운 PR이 도착했습니다!\n\n${{env.PROBLEM}}","url":${{toJson(github.event.pull_request.html_url)}}}]}' ${{ secrets.DISCORD_WEBHOOK_URL }}
