@@ -30,4 +30,5 @@
 | 26차시 | 2024.01.30 |  딕셔너리  | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/125|
 | 27차시 | 2024.02.05 |  투포인터  | [좋다](https://www.acmicpc.net/problem/1253)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/129|
 | 28차시 | 2024.02.07 |  투포인터  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/134|
+| 29차시 | 2024.02.13 |  슬라이딩윈도우  | [블로그](https://www.acmicpc.net/problem/21921)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/136|
 ---
