@@ -27,4 +27,7 @@
 | 23차시 | 2024.01.19 |  DFS/BFS  | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/113|
 | 24차시 | 2024.01.22 |  스택/큐  | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/117|
 | 25차시 | 2024.01.25 |  스택/큐  | [주식 가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/121|
+| 26차시 | 2024.01.30 |  딕셔너리  | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/125|
+| 27차시 | 2024.02.05 |  투포인터  | [좋다](https://www.acmicpc.net/problem/1253)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/129|
+| 28차시 | 2024.02.07 |  투포인터  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/134|
 ---
