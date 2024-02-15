@@ -32,6 +32,7 @@
 | 29차시 | 2024.01.19 |  유니온파인드  | <a href="https://www.acmicpc.net/problem/1043">거짓말</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/114 |
 | 30차시 | 2024.01.23 |  정수론  | <a href="https://www.acmicpc.net/problem/17425">약수의 합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/118 |
 | 31차시 | 2024.01.27 |  이분탐색  | <a href="https://www.acmicpc.net/problem/2143">두 배열의 합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/122 |
+| 32차시 | 2024.01.30 |  백트래킹  | <a href="https://www.acmicpc.net/problem/17114">하이퍼 토마토</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/124 |
 | 33차시 | 2024.02.04 |  정수론  | <a href="https://www.acmicpc.net/problem/14905">소수 4개의 합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/128 |
 | 34차시 | 2024.02.06 |  구현  | <a href="https://www.acmicpc.net/problem/1756">피자 굽기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/133 |
 ---
