@@ -36,4 +36,4 @@
 | 32차시 | 2024.02.04 |       BFS       |                        [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                        | [#127](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/127) |
 | 33차시 | 2024.02.06 |       큐        |                           [철로](https://www.acmicpc.net/problem/13334)                           | [#132](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/132) |
 | 34차시 | 2024.02.12 |       BFS        |                           [이분 그래프](https://www.acmicpc.net/problem/1707)                           | [#135](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/135) |
-| 35차시 | 2024.02.14 |       그리디        |                           [선물할인](https://www.acmicpc.net/problem/25947)                           | [#137](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/137) |
+| 35차시 | 2024.02.18 |       그리디        |                           [선물할인](https://www.acmicpc.net/problem/25947)                           | [#137](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/137) |
