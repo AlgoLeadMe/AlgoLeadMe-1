@@ -40,4 +40,5 @@
 | 36차시 | 2023.02.04 |  BFS  | <a href="https://www.acmicpc.net/problem/4991">로봇 청소기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/126
 | 37차시 | 2023.02.04 |  BFS  | <a href="https://www.acmicpc.net/problem/1039">교환</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/131
 | 38차시 | 2023.02.15 |  DP  | <a href="https://www.acmicpc.net/problem/2749">피보나치 수 3</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/137
+| 39차시 | 2023.02.18 |  DP  | <a href="https://www.acmicpc.net/problem/7579">앱</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/139
 ---
