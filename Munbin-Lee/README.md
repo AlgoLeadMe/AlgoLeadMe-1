@@ -36,4 +36,5 @@
 | 33차시 | 2024.02.04 |  정수론  | <a href="https://www.acmicpc.net/problem/14905">소수 4개의 합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/128 |
 | 34차시 | 2024.02.06 |  구현  | <a href="https://www.acmicpc.net/problem/1756">피자 굽기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/133 |
 | 35차시 | 2024.02.18 |  백트래킹  | <a href="https://www.acmicpc.net/problem/24891">단어 마방진</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/140 |
+| 36차시 | 2024.02.21 |  문자열  | <a href="https://www.acmicpc.net/problem/15927">회문은 회문아니야!!</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/143 |
 ---
