@@ -21,16 +21,20 @@
 | 17차시 | 2023.11.10 |      스택       |        [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         | [#54](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/54)  |
 | 18차시 | 2023.11.13 |      구현       |         [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)          | [#60](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/60)  |
 | 19차시 | 2023.11.17 |      구현       |             [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)             | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/64)  |
-| 20차시 | 2023.11.20 |     문자열      |          [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)           |  [#70](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/70)  |
-| 21차시 | 2023.11.23 |       맵        |              [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)              |  [#73](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/73)  |
-| 22차시 | 2023.11.26 |     그리디      |            [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)            |  [#79](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/79)  |
-| 23차시 | 2023.11.30 |   다익스트라    |                          [지름길](https://www.acmicpc.net/problem/1446)                           |  [#82](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/82)  |
-| 24차시 | 2023.12.23 |  플로이드와셜   |              [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)              |  [#88](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/88)  |
-| 25차시 | 2023.12.27 |       BFS       |                          [토마토](https://www.acmicpc.net/problem/7569)                           |  [#93](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/93)  |
-| 26차시 | 2024.01.02 |    이진탐색     |            [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)            |  [#98](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/98)  |
-| 27차시 | 2024.01.05 |       DP        |           [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)           | [#101](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/101) |
-| 28차시 | 2024.01.16 |     그리디      |       [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)       | [#110](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/110) |
-| 29차시 | 2024.01.18 | DFS, UNION-FIND |                       [순열 사이클](https://www.acmicpc.net/problem/10451)                        | [#112](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/112) |
-| 30차시 | 2024.01.23 |       DP        |                           [ABBC](https://www.acmicpc.net/problem/25381)                           | [#119](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/119) |
-| 31차시 | 2024.01.30 |      SORT       |                        [멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869)                        | [#123](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/123) |
-| 32차시 | 2024.02.04 |       BFS       |                        [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                        | [#127](https://github.com/lgoLeadMe/AlgoLeadMe-1/pull/127) |
+| 20차시 | 2023.11.20 |     문자열      |          [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)           |  [#70](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/70)  |
+| 21차시 | 2023.11.23 |       맵        |              [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)              |  [#73](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/73)  |
+| 22차시 | 2023.11.26 |     그리디      |            [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)            |  [#79](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/79)  |
+| 23차시 | 2023.11.30 |   다익스트라    |                          [지름길](https://www.acmicpc.net/problem/1446)                           |  [#82](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/82)  |
+| 24차시 | 2023.12.23 |  플로이드와셜   |              [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)              |  [#88](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/88)  |
+| 25차시 | 2023.12.27 |       BFS       |                          [토마토](https://www.acmicpc.net/problem/7569)                           |  [#93](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/93)  |
+| 26차시 | 2024.01.02 |    이진탐색     |            [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)            |  [#98](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/98)  |
+| 27차시 | 2024.01.05 |       DP        |           [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)           | [#101](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/101) |
+| 28차시 | 2024.01.16 |     그리디      |       [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)       | [#110](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/110) |
+| 29차시 | 2024.01.18 | DFS, UNION-FIND |                       [순열 사이클](https://www.acmicpc.net/problem/10451)                        | [#112](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/112) |
+| 30차시 | 2024.01.23 |       DP        |                           [ABBC](https://www.acmicpc.net/problem/25381)                           | [#119](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/119) |
+| 31차시 | 2024.01.30 |      SORT       |                        [멀티버스 Ⅱ](https://www.acmicpc.net/problem/18869)                        | [#123](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/123) |
+| 32차시 | 2024.02.04 |       BFS       |                        [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                        | [#127](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/127) |
+| 33차시 | 2024.02.06 |       큐        |                           [철로](https://www.acmicpc.net/problem/13334)                           | [#132](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/132) |
+| 34차시 | 2024.02.12 |       BFS       |                        [이분 그래프](https://www.acmicpc.net/problem/1707)                        | [#135](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/135) |
+| 35차시 | 2024.02.18 |     그리디      |                         [선물할인](https://www.acmicpc.net/problem/25947)                         | [#137](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/137) |
+| 36차시 | 2024.02.21 |    이진탐색     |                       [휴게소 세우기](https://www.acmicpc.net/problem/1477)                       | [#143](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/143) |
