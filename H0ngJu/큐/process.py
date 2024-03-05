@@ -2,7 +2,7 @@ from collections import deque
 
 def solution(priorities, location):
     answer = 0
-    queue = deque([(i, k) for i, k in enumerate(priorities)]) # 튜플 큐 생성
+    queue = deque([(i, k) for k, i in enumerate(priorities)]) # 튜플 큐 생성
     priorities.sort(reverse=True) # 내림차순 정렬
     
     while queue:
