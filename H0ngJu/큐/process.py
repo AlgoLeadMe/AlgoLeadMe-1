@@ -16,3 +16,5 @@ def solution(priorities, location):
             queue.append(cur) # 뒤로 미루기
 
     return answer
+
+#test
