@@ -39,4 +39,4 @@
 | 35차시 | 2024.02.18 |     그리디      |                         [선물할인](https://www.acmicpc.net/problem/25947)                         | [#137](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/137) |
 | 36차시 | 2024.02.21 |    이진탐색     |                       [휴게소 세우기](https://www.acmicpc.net/problem/1477)                       | [#143](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/143) |
 | 37차시 | 2024.03.04 |      구현       |         [n+1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)          | [#149](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/149) |
-| 38차시 | 2024.03.08 |   BRUTE_FORCE   |         [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)          | [#153](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/153) |
+| 38차시 | 2024.03.08 |   BRUTE_FORCE   |         [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)          | [#154](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/154) |
