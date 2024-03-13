@@ -42,4 +42,5 @@
 | 38차시 | 2023.02.15 |  DP  | <a href="https://www.acmicpc.net/problem/2749">피보나치 수 3</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/137
 | 39차시 | 2023.02.18 |  DP  | <a href="https://www.acmicpc.net/problem/7579">앱</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/139
 | 40차시 | 2023.02.21 |  DP  | <a href="https://www.acmicpc.net/problem/31413">입대</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/142
+| 44차시 | 2023.03.13 |  트라이  | <a href="https://www.acmicpc.net/problem/14725">개미굴</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/159
 ---
