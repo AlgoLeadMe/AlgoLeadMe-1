@@ -44,4 +44,5 @@
 | 40차시 | 2023.02.21 |  DP  | <a href="https://www.acmicpc.net/problem/31413">입대</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/142
 | 41차시 | 2023.03.04 |  DP  | <a href="https://www.acmicpc.net/problem/2240">자두나무</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/148
 | 42차시 | 2023.03.07 |  DFS  | <a href="https://www.acmicpc.net/problem/2239">스도쿠</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/152
+| 47차시 | 2023.03.22 |  수학, 분할정복  | <a href="https://www.acmicpc.net/problem/15824">너 봄에는 캡사이신이 맛있단다</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/167
 ---
