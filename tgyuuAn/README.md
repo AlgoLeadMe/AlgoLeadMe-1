@@ -42,5 +42,7 @@
 | 38차시 | 2023.02.15 |  DP  | <a href="https://www.acmicpc.net/problem/2749">피보나치 수 3</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/137
 | 39차시 | 2023.02.18 |  DP  | <a href="https://www.acmicpc.net/problem/7579">앱</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/139
 | 40차시 | 2023.02.21 |  DP  | <a href="https://www.acmicpc.net/problem/31413">입대</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/142
-| 42차시 | 2024.03.10 |  이분 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">징검다리 건너기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/157
+| 41차시 | 2023.03.04 |  DP  | <a href="https://www.acmicpc.net/problem/2240">자두나무</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/148
+| 42차시 | 2023.03.07 |  DFS  | <a href="https://www.acmicpc.net/problem/2239">스도쿠</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/152
+| 43차시 | 2024.03.10 |  이분 탐색  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062">징검다리 건너기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/157
 ---
