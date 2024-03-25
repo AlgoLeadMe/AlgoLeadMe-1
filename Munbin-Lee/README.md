@@ -38,5 +38,6 @@
 | 35차시 | 2024.02.18 |  백트래킹  | <a href="https://www.acmicpc.net/problem/24891">단어 마방진</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/140 |
 | 36차시 | 2024.02.21 |  문자열  | <a href="https://www.acmicpc.net/problem/15927">회문은 회문아니야!!</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/143 |
 | 37차시 | 2024.03.05 |  백트래킹  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/250136">석유 시추</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/150 |
-| 37차시 | 2024.03.08 |  트라이  | <a href="https://www.acmicpc.net/problem/5052">전화번호 목록</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/155 |
+| 38차시 | 2024.03.08 |  트라이  | <a href="https://www.acmicpc.net/problem/5052">전화번호 목록</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/155 |
+| 39차시 | 2024.03.14 |  문자열  | <a href="https://www.acmicpc.net/problem/1050">물약</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/160 |
 ---
