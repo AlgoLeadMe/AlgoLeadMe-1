@@ -7,5 +7,6 @@
 | 3차시 | 2024.03.10 |    힙    |             [N번째 큰 수](https://www.acmicpc.net/problem/2075)             | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/156 |
 | 4차시 | 2024.03.13 |    힙    |               [문제집](https://www.acmicpc.net/problem/1766)                | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/158 |
 | 5차시 | 2024.03.16 |   구현   |            [요세푸스 문제](https://www.acmicpc.net/problem/1158)            | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/161 |
+| 6차시 | 2024.03.19 |   스택   |               [오큰수](https://www.acmicpc.net/problem/17298)               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/164 |
 
 ---
