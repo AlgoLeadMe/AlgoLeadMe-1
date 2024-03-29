@@ -43,3 +43,4 @@
 | 39차시 | 2024.03.19 |       큐        |        [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)         | [#163](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/163) |
 | 40차시 | 2024.03.22 |     그리디      |                           [센서](https://www.acmicpc.net/problem/2212)                            | [#168](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/168) |
 | 41차시 | 2024.03.25 |   다익스트라    |                         [알고스팟](https://www.acmicpc.net/problem/1261)                          | [#169](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/169) |
+| 42차시 | 2024.03.29 |       BFS       |                        [다리 만들기](https://www.acmicpc.net/problem/2146)                        | [#173](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/173) |
