@@ -24,9 +24,6 @@ for row in range(map_size):
         # BFS를 통해 같은 섬인 육지에 ID 할당
         while queue:
             r, c = queue.popleft()
-            # 육지 영역은 다리 영역 탐색 시에 제외함
-            costs[r][c] = -1
-            
             for dr, dc in directions:
                 nr, nc = r + dr, c + dc
 
