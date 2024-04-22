@@ -48,4 +48,5 @@
 | 44차시 | 2023.03.13 |  트라이  | <a href="https://www.acmicpc.net/problem/14725">개미굴</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/159
 | 45차시 | 2023.03.16 |  트라이  | <a href="https://www.acmicpc.net/problem/31413">트라이</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/162
 | 46차시 | 2023.03.20 |  트라이  | <a href="https://www.acmicpc.net/problem/27652">AB</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/165
+| 47차시 | 2023.03.22 |  수학, 분할정복  | <a href="https://www.acmicpc.net/problem/15824">너 봄에는 캡사이신이 맛있단다</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/167
 ---
