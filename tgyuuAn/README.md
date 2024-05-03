@@ -52,4 +52,5 @@
 | 48차시 | 2023.03.25 |  벨만 포드  | <a href="https://www.acmicpc.net/problem/1738">골목길</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/171
 | 49차시 | 2023.03.29 |  DP  | <a href="https://www.acmicpc.net/problem/10217">KCM Travel</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/174
 | 50차시 | 2024.04.01 |  BFS  | <a href="https://www.acmicpc.net/problem/9328">열쇠</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/175
+| 51차시 | 2023.04.07 |  BFS  | <a href="https://www.acmicpc.net/problem/5213">과외맨</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/179
 ---
