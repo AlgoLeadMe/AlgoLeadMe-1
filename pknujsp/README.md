@@ -41,3 +41,4 @@
 | 37차시 | 2024.03.04 |      구현       |         [n+1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)          | [#149](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/149) |
 | 38차시 | 2024.03.08 |   BRUTE_FORCE   |         [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)          | [#154](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/154) |
 | 39차시 | 2024.03.19 |       큐        |        [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)         | [#163](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/163) |
+| 40차시 | 2024.03.22 |     그리디      |                           [센서](https://www.acmicpc.net/problem/2212)                            | [#168](https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/168) |
