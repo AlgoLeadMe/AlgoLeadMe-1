@@ -50,4 +50,5 @@
 | 46차시 | 2023.03.20 |  트라이  | <a href="https://www.acmicpc.net/problem/27652">AB</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/165
 | 47차시 | 2023.03.22 |  수학, 분할정복  | <a href="https://www.acmicpc.net/problem/15824">너 봄에는 캡사이신이 맛있단다</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/167
 | 48차시 | 2023.03.25 |  벨만 포드  | <a href="https://www.acmicpc.net/problem/1738">골목길</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/171
+| 49차시 | 2023.03.29 |  DP  | <a href="https://www.acmicpc.net/problem/10217">KCM Travel</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/174
 ---
