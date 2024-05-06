@@ -48,4 +48,5 @@
 | 44차시 | 2023.03.13 |  트라이  | <a href="https://www.acmicpc.net/problem/14725">개미굴</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/159
 | 45차시 | 2023.03.16 |  트라이  | <a href="https://www.acmicpc.net/problem/31413">트라이</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/162
 | 51차시 | 2023.04.07 |  BFS  | <a href="https://www.acmicpc.net/problem/5213">과외맨</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/179
+| 52차시 | 2023.05.06 |  위상정렬  | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/182
 ---
