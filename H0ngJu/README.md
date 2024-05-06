@@ -9,6 +9,10 @@
 | 5차시  | 2024.03.16 |   구현   |                 [요세푸스 문제](https://www.acmicpc.net/problem/1158)                 | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/161 |
 | 6차시  | 2024.03.19 |   스택   |                    [오큰수](https://www.acmicpc.net/problem/17298)                    | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/164 |
 | 7차시  | 2024.03.22 |    DP    |                 [1,2,3 더하기](https://www.acmicpc.net/problem/9095)                  | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/166 |
+| 8차시  | 2024.03.16 |    DP    |                 [쉬운 계단 수](https://www.acmicpc.net/problem/10844)                 | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/170 |
+| 9차시  | 2024.03.22 |    DP    |                  [RGB거리 2](https://www.acmicpc.net/problem/17404)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/172 |
+| 10차시 | 2024.04.03 |   BFS    |                  [숨바꼭질 4](https://www.acmicpc.net/problem/13913)                  | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/177 |
+| 11차시 | 2024.04.07 |   구현   |                   [사탕 게임](https://www.acmicpc.net/problem/9095)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/178 |
 | 12차시 | 2024.04.09 |   DFS    |                    [ABCDE](https://www.acmicpc.net/problem/13023)                     | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/180 |
 
 ---
