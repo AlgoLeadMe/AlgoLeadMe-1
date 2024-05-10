@@ -48,15 +48,15 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/tgyuuAn"><img src="https://avatars.githubusercontent.com/u/116813010?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="http://github.com/pknujsp"><img src="https://avatars.githubusercontent.com/u/48265129?s=64&v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://github.com/Munbin-Lee"><img src="https://avatars.githubusercontent.com/u/100560031?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/H0ngJu"><img src="https://avatars.githubusercontent.com/u/106425326?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/SeongHoonC"><img src="https://avatars.githubusercontent.com/u/108349655?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/alstjr7437"><img src="https://avatars.githubusercontent.com/u/94051599?v=4" width="100px;" alt=""/>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/tgyuuAn" title="Code">tgyuuAn</a></td>
-    <td align="center"><a href="https://github.com/pknujsp" title="Code">pknujsp</a></td>
-    <td align="center"><a href="https://github.com/Munbin-Lee" title="Code">Munbin-Lee</a></td>
     <td align="center"><a href="https://github.com/H0ngJu" title="Code">H0ngJu</a></td>
+    <td align="center"><a href="https://github.com/SeongHoonC" title="Code">SeongHoonC</a></td>
+    <td align="center"><a href="https://github.com/alstjr7437" title="Code">alstjr7437</a></td>
   </tr>
 
 </table>
@@ -68,19 +68,25 @@
 <table>
   <tr>
     <td align="center"><a href="http://github.com/yuna83"><img src="https://avatars.githubusercontent.com/u/140380279?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="http://github.com/pknujsp"><img src="https://avatars.githubusercontent.com/u/48265129?s=64&v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/Munbin-Lee"><img src="https://avatars.githubusercontent.com/u/100560031?v=4" width="100px;" alt=""/>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/yuna83" title="Code">yuna83</a></td>
+    <td align="center"><a href="https://github.com/pknujsp" title="Code">pknujsp</a></td>
+    <td align="center"><a href="https://github.com/Munbin-Lee" title="Code">Munbin-Lee</a></td>
   </tr>
     <tr>
     <td align="center">23-10-09 ~<br> 24-03-04</a></td>
+    <td align="center">23-10-09 ~<br> 24-05-05</a></td>
+    <td align="center">23-10-09 ~<br> 24-05-05</a></td>
   </tr>
 </table>
 <br><br>
 
 ## 🤝 규칙
 
-- 스터디를 시작한 날짜로 부터 **3일에 1 문제**씩 제출.
+- 스터디를 시작한 날짜로 부터 **4일에 1 문제**씩 제출.
 
   **스터디 시작 날짜 : 2023-10-09**
 
