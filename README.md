@@ -49,10 +49,14 @@
   <tr>
     <td align="center"><a href="https://github.com/tgyuuAn"><img src="https://avatars.githubusercontent.com/u/116813010?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/H0ngJu"><img src="https://avatars.githubusercontent.com/u/106425326?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/SeongHoonC"><img src="https://avatars.githubusercontent.com/u/108349655?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/alstjr7437"><img src="https://avatars.githubusercontent.com/u/94051599?v=4" width="100px;" alt=""/>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/tgyuuAn" title="Code">tgyuuAn</a></td>
     <td align="center"><a href="https://github.com/H0ngJu" title="Code">H0ngJu</a></td>
+    <td align="center"><a href="https://github.com/SeongHoonC" title="Code">SeongHoonC</a></td>
+    <td align="center"><a href="https://github.com/alstjr7437" title="Code">alstjr7437</a></td>
   </tr>
 
 </table>
@@ -82,7 +86,7 @@
 
 ## 🤝 규칙
 
-- 스터디를 시작한 날짜로 부터 **3일에 1 문제**씩 제출.
+- 스터디를 시작한 날짜로 부터 **4일에 1 문제**씩 제출.
 
   **스터디 시작 날짜 : 2023-10-09**
 
