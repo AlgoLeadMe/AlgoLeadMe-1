@@ -55,4 +55,5 @@
 | 51차시 | 2023.04.07 |  BFS  | <a href="https://www.acmicpc.net/problem/5213">과외맨</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/179
 | 52차시 | 2023.05.06 |  위상정렬  | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/182
 | 53차시 | 2023.05.09 |  백트래킹  | <a href="https://www.acmicpc.net/problem/12100">2048 (Easy)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/184
+| 55차시 | 2023.05.18 |  유니온 파인드  | <a href="https://www.acmicpc.net/problem/4195">친구 네트워크</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/189
 ---
