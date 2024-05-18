@@ -24,5 +24,6 @@
 | 20차시 | 2024.04.07 | DP | <a href="https://www.acmicpc.net/problem/7579">앱</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/75 |
 | 21차시 | 2024.04.11 | DP | <a href="https://www.acmicpc.net/problem/1149">RGB거리</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/77 |
 | 22차시 | 2024.05.01 | DP | <a href="https://www.acmicpc.net/problem/11053">가장 긴 증가하는 부분 수열</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/80 |
-| 23차시 | 2024.05.14 | ??? | <a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/186 |
+| 23차시 | 2024.05.14 | 소수 | <a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/186 |
+| 24차시 | 2024.05.18| ??? | <a href="https://www.acmicpc.net/problem/9663">n-queen</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/192 |
 ---
