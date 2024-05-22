@@ -26,4 +26,5 @@
 | 22차시 | 2024.04.13 |  BFS  | <a href="https://www.acmicpc.net/problem/11724">연결 요소의 개수</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/78 |
 | 23차시 | 2024.05.01 |  큐  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42587">프로세스</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-6/pull/79 |
 | 24차시 | 2024.05.14 |  BFS  | <a href="https://www.acmicpc.net/problem/7576">토마토</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/187 |
+| 25차시 | 2024.05.18 |  덱  | <a href="https://www.acmicpc.net/problem/5430">AC</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/190 |
 | 26차시 | 2024.05.22 |  정렬  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">H-Index</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/196 |
