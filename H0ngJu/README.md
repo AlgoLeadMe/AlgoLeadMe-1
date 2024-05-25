@@ -17,6 +17,7 @@
 | 13차시 | 2024.05.06 | 완전탐색 |                    [리모컨](https://www.acmicpc.net/problem/1107)                     | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/181 |
 | 14차시 | 2024.05.09 |   DFS    |                   [치킨배달](https://www.acmicpc.net/problem/15686)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/183 |
 | 15차시 | 2024.05.14 |  그리디  |                    [A와 B](https://www.acmicpc.net/problem/12904)                     | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/188 |
+| 16차시 | 2024.05.14 |   BFS    |               [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/191 |
 | 17차시 | 2024.05.22 |   BFS    |                   [적록색약](https://www.acmicpc.net/problem/10026)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/195 |
 
 ---
