@@ -27,4 +27,5 @@
 | 23차시 | 2024.05.14 | 소수 | <a href="https://www.acmicpc.net/problem/1644">소수의 연속합</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/186 |
 | 24차시 | 2024.05.18| 백트래킹 | <a href="https://www.acmicpc.net/problem/9663">n-queen</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/192 |
 | 25차시 | 2024.05.22| 브루트포스 | <a href="https://www.acmicpc.net/problem/14500">테트로미노</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/194 |
+| 26차시 | 2024.05.26| 그래프 | <a href="https://www.acmicpc.net/problem/1389">케빈 베이컨의 6단계 법칙</a> |https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/200 |
 ---
