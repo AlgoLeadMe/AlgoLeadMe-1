@@ -22,4 +22,6 @@
 | 18차시 | 2024.05.26 |   DFS    |              [계란으로 계란치기](https://www.acmicpc.net/problem/16987)               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/199 |
 | 19차시 | 2024.05.31 |    DP    |                    [합분해](https://www.acmicpc.net/problem/2225)                     | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/202 |
 
+| 21차시 | 2024.06.07 | 그리디 | [행복 유치원](https://www.acmicpc.net/problem/13164) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/208 |
+
 ---
