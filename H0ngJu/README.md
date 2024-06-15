@@ -19,6 +19,7 @@
 | 15차시 | 2024.05.14 |  그리디  |                    [A와 B](https://www.acmicpc.net/problem/12904)                     | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/188 |
 | 16차시 | 2024.05.14 |   BFS    |               [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/191 |
 | 17차시 | 2024.05.22 |   BFS    |                   [적록색약](https://www.acmicpc.net/problem/10026)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/195 |
-| 17차시 | 2024.05.26 |   DFS    |              [계란으로 계란치기](https://www.acmicpc.net/problem/16987)               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/199 |
+| 18차시 | 2024.05.26 |   DFS    |              [계란으로 계란치기](https://www.acmicpc.net/problem/16987)               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/199 |
+| 19차시 | 2024.05.31 |    DP    |                    [합분해](https://www.acmicpc.net/problem/2225)                     | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/202 |
 
 ---
