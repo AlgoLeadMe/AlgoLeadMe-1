@@ -59,8 +59,9 @@
 | 52차시 | 2024.05.06 |  위상정렬  | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/182
 | 53차시 | 2024.05.09 |  백트래킹  | <a href="https://www.acmicpc.net/problem/12100">2048 (Easy)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/184
 | 54차시 | 2024.05.14 |  다익스트라  | <a href="https://www.acmicpc.net/problem/9370">미확인 도착지</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/185
-| 55차시 | 2023.05.18 |  유니온 파인드  | <a href="https://www.acmicpc.net/problem/4195">친구 네트워크</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/189
-| 56차시 | 2023.05.18 |  BFS | <a href="https://www.acmicpc.net/problem/17836">공주님을 구해라!</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/193
-| 57차시 | 2023.05.26 |  분할 정복  | <a href="https://www.acmicpc.net/problem/2263">트리의 순회</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/197
-| 58차시 | 2023.05.30 |  백트래킹  | <a href="https://www.acmicpc.net/problem/1799">비숍</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/204
+| 55차시 | 2024.05.18 |  유니온 파인드  | <a href="https://www.acmicpc.net/problem/4195">친구 네트워크</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/189
+| 56차시 | 2024.05.18 |  BFS | <a href="https://www.acmicpc.net/problem/17836">공주님을 구해라!</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/193
+| 57차시 | 2024.05.26 |  분할 정복  | <a href="https://www.acmicpc.net/problem/2263">트리의 순회</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/197
+| 58차시 | 2024.05.30 |  백트래킹  | <a href="https://www.acmicpc.net/problem/1799">비숍</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/204
+| 61차시 | 2024.06.20 |  크루스칼  | <a href="https://www.acmicpc.net/problem/1774">우주신과의 교감</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/212
 ---
