@@ -64,4 +64,5 @@
 | 57차시 | 2023.05.26 |  분할 정복  | <a href="https://www.acmicpc.net/problem/2263">트리의 순회</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/197
 | 58차시 | 2023.05.30 |  백트래킹  | <a href="https://www.acmicpc.net/problem/1799">비숍</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/204
 | 59차시 | 2023.06.03 |  다익스트라 + 이분 탐색  | <a href="https://www.acmicpc.net/problem/14942">개미</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/207
+| 60차시 | 2023.06.07 |  그리디  | <a href="https://www.acmicpc.net/problem/14939">불 끄기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/209
 ---
