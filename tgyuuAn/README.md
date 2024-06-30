@@ -52,17 +52,18 @@
 | 48차시 | 2024.03.25 |  벨만 포드  | <a href="https://www.acmicpc.net/problem/1738">골목길</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/171
 | 49차시 | 2024.03.29 |  DP  | <a href="https://www.acmicpc.net/problem/10217">KCM Travel</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/174
 | 50차시 | 2024.04.01 |  BFS  | <a href="https://www.acmicpc.net/problem/9328">열쇠</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/175
-| 51차시 | 2023.04.07 |  BFS  | <a href="https://www.acmicpc.net/problem/5213">과외맨</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/179
-| 52차시 | 2023.05.06 |  위상정렬  | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/182
-| 53차시 | 2023.05.09 |  백트래킹  | <a href="https://www.acmicpc.net/problem/12100">2048 (Easy)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/184
+| 51차시 | 2024.04.07 |  BFS  | <a href="https://www.acmicpc.net/problem/5213">과외맨</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/179
+| 52차시 | 2024.05.06 |  위상정렬  | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/182
+| 53차시 | 2024.05.09 |  백트래킹  | <a href="https://www.acmicpc.net/problem/12100">2048 (Easy)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/184
 | 51차시 | 2024.04.07 |  BFS  | <a href="https://www.acmicpc.net/problem/5213">과외맨</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/179
 | 52차시 | 2024.05.06 |  위상정렬  | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/182
 | 53차시 | 2024.05.09 |  백트래킹  | <a href="https://www.acmicpc.net/problem/12100">2048 (Easy)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/184
 | 54차시 | 2024.05.14 |  다익스트라  | <a href="https://www.acmicpc.net/problem/9370">미확인 도착지</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/185
-| 55차시 | 2023.05.18 |  유니온 파인드  | <a href="https://www.acmicpc.net/problem/4195">친구 네트워크</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/189
-| 56차시 | 2023.05.18 |  BFS | <a href="https://www.acmicpc.net/problem/17836">공주님을 구해라!</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/193
-| 57차시 | 2023.05.26 |  분할 정복  | <a href="https://www.acmicpc.net/problem/2263">트리의 순회</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/197
-| 58차시 | 2023.05.30 |  백트래킹  | <a href="https://www.acmicpc.net/problem/1799">비숍</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/204
-| 59차시 | 2023.06.03 |  다익스트라 + 이분 탐색  | <a href="https://www.acmicpc.net/problem/14942">개미</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/207
-| 60차시 | 2023.06.07 |  그리디  | <a href="https://www.acmicpc.net/problem/14939">불 끄기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/209
+| 55차시 | 2024.05.18 |  유니온 파인드  | <a href="https://www.acmicpc.net/problem/4195">친구 네트워크</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/189
+| 56차시 | 2024.05.18 |  BFS | <a href="https://www.acmicpc.net/problem/17836">공주님을 구해라!</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/193
+| 57차시 | 2024.05.26 |  분할 정복  | <a href="https://www.acmicpc.net/problem/2263">트리의 순회</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/197
+| 58차시 | 2024.05.30 |  백트래킹  | <a href="https://www.acmicpc.net/problem/1799">비숍</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/204
+| 59차시 | 2024.06.03 |  다익스트라 + 이분 탐색  | <a href="https://www.acmicpc.net/problem/14942">개미</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/207
+| 60차시 | 2024.06.07 |  그리디  | <a href="https://www.acmicpc.net/problem/14939">불 끄기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/209
+| 61차시 | 2024.06.20 |  크루스칼  | <a href="https://www.acmicpc.net/problem/1774">우주신과의 교감</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/212
 ---
