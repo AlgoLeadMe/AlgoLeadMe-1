@@ -30,3 +30,4 @@
 | 26차시 | 2024.05.22 |  정렬  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">H-Index</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/196 |
 | 27차시 | 2024.05.26 |  우선순위 큐  | <a href="https://www.acmicpc.net/problem/7662">이중 우선순위 큐</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/198 |
 | 28차시 | 2024.05.30 |  브루트 포스  | <a href="https://www.acmicpc.net/problem/6064">카잉 달력</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/203 |
+| 29차시 | 2024.06.11 |  이분 탐색  | <a href="https://www.acmicpc.net/problem/2805">나무 자르기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/210 |
