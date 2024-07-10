@@ -66,5 +66,6 @@
 | 59차시 | 2024.06.03 |  다익스트라 + 이분 탐색  | <a href="https://www.acmicpc.net/problem/14942">개미</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/207
 | 60차시 | 2024.06.07 |  그리디  | <a href="https://www.acmicpc.net/problem/14939">불 끄기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/209
 | 61차시 | 2024.06.20 |  크루스칼  | <a href="https://www.acmicpc.net/problem/1774">우주신과의 교감</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/212
-| 62차시 | 2024.07.01 |  DP  | <a href="https://www.acmicpc.net/problem/1949">우수 마을</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/214
+| 62차시 | 2024.07.01 |  DP  | <a href="https://www.acmicpc.net/problem/1949">우수 마을</a> | https://github.com/AlgoLeadMe/AlgoLeadMse-1/pull/214
+| 63차시 | 2024.07.08 |  BFS  | <a href="https://www.acmicpc.net/problem/3108">로고</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/216
 ---
