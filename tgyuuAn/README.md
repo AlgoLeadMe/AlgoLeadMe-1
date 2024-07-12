@@ -67,4 +67,5 @@
 | 60차시 | 2024.06.07 |  그리디  | <a href="https://www.acmicpc.net/problem/14939">불 끄기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/209
 | 61차시 | 2024.06.20 |  크루스칼  | <a href="https://www.acmicpc.net/problem/1774">우주신과의 교감</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/212
 | 62차시 | 2024.07.01 |  DP  | <a href="https://www.acmicpc.net/problem/1949">우수 마을</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/214
+| 64차시 | 2024.07.12 |  최소 공통 조상  | <a href="https://www.acmicpc.net/problem/11812">K진 트리</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/217
 ---
