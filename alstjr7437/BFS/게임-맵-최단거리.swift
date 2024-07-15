@@ -1,7 +1,6 @@
 import Foundation
 
-func solution(_ maps: [[Int]]) -> Int {
-    var maps = maps
+func solution(_ maps: inout [[Int]]) -> Int {
     let dx = [-1, 1, 0, 0]
     let dy = [0, 0, -1, 1]
     let rowCount = maps.count
@@ -19,13 +18,9 @@ func solution(_ maps: [[Int]]) -> Int {
                 let nx = x + dx[i]
                 let ny = y + dy[i]
                 
-                if nx < 0 || nx >= rowCount || ny < 0 || ny >= colCount {
-                    continue
-                }
+                if nx < 0 || nx >= rowCount || ny < 0 || ny >= colCount { continue }
                 
-                if maps[nx][ny] == 0 {
-                    continue
-                }
+                if maps[nx][ny] == 0 { continue }
                 
                 if maps[nx][ny] == 1 {
                     maps[nx][ny] = maps[x][y] + 1
@@ -42,10 +37,11 @@ func solution(_ maps: [[Int]]) -> Int {
 }
 
 // 예시 호출
-let maps = [
+var maps = [
     [1, 0, 1, 1, 1],
     [1, 0, 1, 0, 1],
+    [1, 0, 1, 1, 1],
     [1, 1, 1, 0, 1],
-    [0, 0, 0, 0, 1]
+    [0, 0, 0, 0, 1] 
 ]
-print(solution(maps)) // 출력: 11
+print(solution(&maps)) // 출력: 11
