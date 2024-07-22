@@ -31,5 +31,6 @@
 | 27차시 | 2024.05.30 |   그래프   |               <a href="https://www.acmicpc.net/problem/16724">피리 부는 사나이</a>               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/201 |
 | 28차시 | 2024.06.03 |  투포인터   |                  <a href="https://www.acmicpc.net/problem/1806">부분합</a>                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/205 |
 | 29차시 | 2024.07.01 | 구현, 그래프 |                <a href="https://www.acmicpc.net/problem/16166">서울의 지하철</a>                | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/213 |
-| 30차시  | 2024.07.08 |  브루트포스  |                <a href="https://www.acmicpc.net/problem/1759">암호 만들기</a>                 | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/215 |
+| 30차시 | 2024.07.08 |  브루트포스  |                 <a href="https://www.acmicpc.net/problem/1759">암호 만들기</a>                 | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/215 |
+| 31차시 | 2024.07.17 |  투포인터   |                  <a href="https://www.acmicpc.net/problem/1484">다이어트</a>                  | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/215 |
 ---
