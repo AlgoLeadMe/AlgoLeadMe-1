@@ -22,7 +22,7 @@
 | 18차시 | 2024.05.26 |   DFS    |              [계란으로 계란치기](https://www.acmicpc.net/problem/16987)               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/199 |
 | 19차시 | 2024.05.31 |    DP    |                    [합분해](https://www.acmicpc.net/problem/2225)                     | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/202 |
 | 20차시 | 2024.06.03 | 백트래킹 |                [스타트와 링크](https://www.acmicpc.net/problem/14889)                 | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/206 |
-
-| 21차시 | 2024.06.07 | 그리디 | [행복 유치원](https://www.acmicpc.net/problem/13164) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/208 |
+| 21차시 | 2024.06.07 |  그리디  |                 [행복 유치원](https://www.acmicpc.net/problem/13164)                  | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/208 |
+| 22차시 | 2024.08.06 |   해시   |        [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)        | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/224 |
 
 ---
