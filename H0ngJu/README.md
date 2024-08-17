@@ -24,6 +24,6 @@
 | 20차시 | 2024.06.03 | 백트래킹 |                [스타트와 링크](https://www.acmicpc.net/problem/14889)                 | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/206 |
 | 21차시 | 2024.06.07 |  그리디  |                 [행복 유치원](https://www.acmicpc.net/problem/13164)                  | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/208 |
 
-| 24차시 | 2024.08.12 | BFS | [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/229 |
+| 24차시 | 2024.08.17 | BFS | [아기상어](https://www.acmicpc.net/problem/16236) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/233 |
 
 ---
