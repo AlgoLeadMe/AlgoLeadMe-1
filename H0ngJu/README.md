@@ -25,4 +25,6 @@
 | 21차시 | 2024.06.07 |  그리디  |                 [행복 유치원](https://www.acmicpc.net/problem/13164)                  | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/208 |
 | 22차시 | 2024.08.06 |   해시   |        [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)        | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/224 |
 
+| 24차시 | 2024.08.17 | BFS | [아기상어](https://www.acmicpc.net/problem/16236) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/233 |
+
 ---

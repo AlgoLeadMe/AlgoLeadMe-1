@@ -67,7 +67,14 @@
 | 60차시 | 2024.06.07 |  그리디  | <a href="https://www.acmicpc.net/problem/14939">불 끄기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/209
 | 61차시 | 2024.06.20 |  크루스칼  | <a href="https://www.acmicpc.net/problem/1774">우주신과의 교감</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/212
 | 62차시 | 2024.07.01 |  DP  | <a href="https://www.acmicpc.net/problem/1949">우수 마을</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/214
+| 63차시 | 2024.07.08 |  BFS  | <a href="https://www.acmicpc.net/problem/3108">로고</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/216
 | 62차시 | 2024.07.01 |  DP  | <a href="https://www.acmicpc.net/problem/1949">우수 마을</a> | https://github.com/AlgoLeadMe/AlgoLeadMse-1/pull/214
 | 63차시 | 2024.07.08 |  BFS  | <a href="https://www.acmicpc.net/problem/3108">로고</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/216
 | 64차시 | 2024.07.12 |  최소 공통 조상  | <a href="https://www.acmicpc.net/problem/11812">K진 트리</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/217
+| 65차시 | 2024.07.19 |  최소 공통 조상  | <a href="https://www.acmicpc.net/problem/3584">가장 가까운 공통 조상</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/220
+| 66차시 | 2024.07.22 |  DP  | <a href="https://www.acmicpc.net/problem/2169">로봇 조종하기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/222
+| 67차시 | 2024.07.26 |  DP  | <a href="https://www.acmicpc.net/problem/3687">성냥개비</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/223
+| 68차시 | 2024.08.06 |  그리디  | <a href="https://www.acmicpc.net/problem/24337">가희와 탑</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/226
+| 69차시 | 2024.08.10 |  누적합, 수학  | <a href="https://www.acmicpc.net/problem/9527">1의 개수 세기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/228
+| 70차시 | 2024.08.16 |  스택  | <a href="https://www.acmicpc.net/problem/22866">탑 보기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/232
 ---

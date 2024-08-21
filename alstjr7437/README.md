@@ -32,3 +32,5 @@
 | 28차시 | 2024.05.30 |  브루트 포스  | <a href="https://www.acmicpc.net/problem/6064">카잉 달력</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/203 |
 | 29차시 | 2024.06.11 |  이분 탐색  | <a href="https://www.acmicpc.net/problem/2805">나무 자르기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/210 |
 | 30차시 | 2024.06.19 |  방 번호  | <a href="https://www.acmicpc.net/problem/1475">구현</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/211 |
+| 31차시 | 2024.06.19 |  게임 맵 최단거리  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">BFS</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/218 |
+| 32차시 | 2024.08.15 |  과일 탕후루  | <a href="https://www.acmicpc.net/problem/30804">투 포인터</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/230 |
