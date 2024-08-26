@@ -77,4 +77,5 @@
 | 68차시 | 2024.08.06 |  그리디  | <a href="https://www.acmicpc.net/problem/24337">가희와 탑</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/226
 | 69차시 | 2024.08.10 |  누적합, 수학  | <a href="https://www.acmicpc.net/problem/9527">1의 개수 세기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/228
 | 70차시 | 2024.08.16 |  스택  | <a href="https://www.acmicpc.net/problem/22866">탑 보기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/232
+| 73차시 | 2024.08.26 |  BFS  | <a href="https://www.acmicpc.net/problem/14324">Rain (Small)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/239
 ---
