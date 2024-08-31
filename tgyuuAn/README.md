@@ -78,4 +78,5 @@
 | 69차시 | 2024.08.10 |  누적합, 수학  | <a href="https://www.acmicpc.net/problem/9527">1의 개수 세기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/228
 | 70차시 | 2024.08.16 |  스택  | <a href="https://www.acmicpc.net/problem/22866">탑 보기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/232
 | 71차시 | 2024.08.20 |  다익스트라  | <a href="https://www.acmicpc.net/problem/24042">다익스트라</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/235
+| 74차시 | 2024.08.30 |  BFS  | <a href="https://www.acmicpc.net/problem/11967">불 켜기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/242
 ---
