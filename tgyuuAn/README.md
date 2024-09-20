@@ -82,4 +82,5 @@
 | 73차시 | 2024.08.26 |  BFS  | <a href="https://www.acmicpc.net/problem/14324">Rain (Small)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/239
 | 74차시 | 2024.08.30 |  BFS  | <a href="https://www.acmicpc.net/problem/11967">불 켜기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/242
 | 75차시 | 2024.09.02 |  DP  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258705">산 모양 타일링</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/243
+| 76차시 | 2024.09.06 |  DFS + 트리  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">표현 가능한 이진트리</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/246
 ---
