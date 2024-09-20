@@ -80,4 +80,5 @@
 | 71차시 | 2024.08.20 |  다익스트라  | <a href="https://www.acmicpc.net/problem/24042">다익스트라</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/235
 | 72차시 | 2024.08.23 |  DFS + 트리  | <a href="https://www.acmicpc.net/problem/20188">등산 마니아</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/238
 | 73차시 | 2024.08.26 |  BFS  | <a href="https://www.acmicpc.net/problem/14324">Rain (Small)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/239
+| 74차시 | 2024.08.30 |  BFS  | <a href="https://www.acmicpc.net/problem/11967">불 켜기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/242
 ---
