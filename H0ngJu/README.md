@@ -27,5 +27,6 @@
 | 23차시 | 2024.08.10 | 해시 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/227 |
 | 24차시 | 2024.08.17 | BFS | [아기상어](https://www.acmicpc.net/problem/16236) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/233 |
 | 25차시 | 2024.08.17 | DFS | [친구비](https://www.acmicpc.net/problem/16562) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/234 |
+| 26차시 | 2024.08.24 | 그리디 | [신입사원](https://www.acmicpc.net/problem/1946) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/237 |
 
 ---
