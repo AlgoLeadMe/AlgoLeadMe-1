@@ -29,5 +29,5 @@
 | 25차시 | 2024.08.17 | DFS | [친구비](https://www.acmicpc.net/problem/16562) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/234 |
 | 26차시 | 2024.08.24 | 그리디 | [신입사원](https://www.acmicpc.net/problem/1946) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/237 |
 | 27차시 | 2024.08.27 | DFS | [트리의 지름](https://www.acmicpc.net/problem/1967) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/240 |
-
+| 28차시 | 2024.09.04 | 벨만포드 | [타임머신](https://www.acmicpc.net/problem/11657) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/244 |
 ---
