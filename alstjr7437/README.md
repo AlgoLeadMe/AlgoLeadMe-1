@@ -35,3 +35,4 @@
 | 31차시 | 2024.06.19 |  BFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">게임 맵 최단거리</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/218 |
 | 32차시 | 2024.08.15 |  투 포인터  | <a href="https://www.acmicpc.net/problem/30804">과일 탕후루</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/230 |
 | 33차시 | 2024.08.21 |  BFS  | <a href="https://www.acmicpc.net/problem/9019">DSLR</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/236 |
+| 34차시 | 2024.08.28 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1238">파티</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/241 |
