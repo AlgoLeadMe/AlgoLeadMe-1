@@ -24,11 +24,13 @@
 | 20차시 | 2024.06.03 | 백트래킹 |                [스타트와 링크](https://www.acmicpc.net/problem/14889)                 | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/206 |
 | 21차시 | 2024.06.07 |  그리디  |                 [행복 유치원](https://www.acmicpc.net/problem/13164)                  | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/208 |
 | 22차시 | 2024.08.06 |   해시   |        [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)        | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/224 |
-| 23차시 | 2024.08.10 | 해시 | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/227 |
-| 24차시 | 2024.08.17 | BFS | [아기상어](https://www.acmicpc.net/problem/16236) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/233 |
-| 25차시 | 2024.08.17 | DFS | [친구비](https://www.acmicpc.net/problem/16562) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/234 |
-| 26차시 | 2024.08.24 | 그리디 | [신입사원](https://www.acmicpc.net/problem/1946) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/237 |
-| 27차시 | 2024.08.27 | DFS | [트리의 지름](https://www.acmicpc.net/problem/1967) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/240 |
-| 28차시 | 2024.09.04 | 벨만포드 | [타임머신](https://www.acmicpc.net/problem/11657) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/244 |
-| 29차시 | 2024.09.06 | 구현 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/245 |
+| 23차시 | 2024.08.10 |   해시   |     [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)     | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/227 |
+| 24차시 | 2024.08.17 |   BFS    |                   [아기상어](https://www.acmicpc.net/problem/16236)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/233 |
+| 25차시 | 2024.08.17 |   DFS    |                    [친구비](https://www.acmicpc.net/problem/16562)                    | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/234 |
+| 26차시 | 2024.08.24 |  그리디  |                   [신입사원](https://www.acmicpc.net/problem/1946)                    | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/237 |
+| 27차시 | 2024.08.27 |   DFS    |                  [트리의 지름](https://www.acmicpc.net/problem/1967)                  | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/240 |
+| 28차시 | 2024.09.04 | 벨만포드 |                   [타임머신](https://www.acmicpc.net/problem/11657)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/244 |
+| 29차시 | 2024.09.06 |   구현   |                   [톱니바퀴](https://www.acmicpc.net/problem/14891)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/245 |
+| 30차시 | 2024.09.27 |   수학   |         [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)          | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/248 |
+
 ---
