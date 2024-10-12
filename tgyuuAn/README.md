@@ -84,4 +84,5 @@
 | 75차시 | 2024.09.02 |  DP  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258705">산 모양 타일링</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/243
 | 76차시 | 2024.09.06 |  DFS + 트리  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">표현 가능한 이진트리</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/246
 | 77차시 | 2024.09.27 |  구현  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150366">표 병합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/247
+| 79차시 | 2024.10.12 |  이분 매칭  | <a href="https://www.acmicpc.net/problem/9576">책 나눠주기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/251
 ---
