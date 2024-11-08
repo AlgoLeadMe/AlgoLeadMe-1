@@ -30,6 +30,8 @@
 | 26차시 | 2024.08.24 |  그리디  |                   [신입사원](https://www.acmicpc.net/problem/1946)                    | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/237 |
 | 27차시 | 2024.08.27 |   DFS    |                  [트리의 지름](https://www.acmicpc.net/problem/1967)                  | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/240 |
 | 28차시 | 2024.09.04 | 벨만포드 |                   [타임머신](https://www.acmicpc.net/problem/11657)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/244 |
-| 29차시 | 2024.09.06 |   구현   |[톱니바퀴](https://www.acmicpc.net/problem/14891)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/245 |
+| 29차시 | 2024.09.06 |   구현   |                   [톱니바퀴](https://www.acmicpc.net/problem/14891)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/245 |
 | 30차시 | 2024.09.27 |   수학   |         [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)          | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/248 |
-| 31차시 | 2024.10.05 | 정렬 | [선 긋기](https://www.acmicpc.net/problem/2170) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/249 |
+| 31차시 | 2024.10.05 |   정렬   |                    [선 긋기](https://www.acmicpc.net/problem/2170)                    | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/249 |
+
+| 33차시 | 2024.11.08 | 백트래킹 | [병원 거리 최소화](https://www.codetree.ai/training-field/frequent-problems/problems/min-of-hospital-distance/submissions?page=11&pageSize=5) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/253 |
