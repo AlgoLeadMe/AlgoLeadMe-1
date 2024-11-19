@@ -33,5 +33,5 @@
 | 29차시 | 2024.09.06 |   구현   |                   [톱니바퀴](https://www.acmicpc.net/problem/14891)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/245 |
 | 30차시 | 2024.09.27 |   수학   |         [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)          | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/248 |
 | 31차시 | 2024.10.05 |   정렬   |                    [선 긋기](https://www.acmicpc.net/problem/2170)                    | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/249 |
-
+| 32차시 | 2024.10.14 | 이분 탐색 |                   [기타 레슨](https://www.acmicpc.net/problem/2343)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/252 |
 | 33차시 | 2024.11.08 | 백트래킹 | [병원 거리 최소화](https://www.codetree.ai/training-field/frequent-problems/problems/min-of-hospital-distance/submissions?page=11&pageSize=5) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/253 |
