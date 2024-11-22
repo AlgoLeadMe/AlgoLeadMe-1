@@ -35,3 +35,4 @@
 | 31차시 | 2024.10.05 |   정렬   |                    [선 긋기](https://www.acmicpc.net/problem/2170)                    | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/249 |
 | 32차시 | 2024.10.14 | 이분 탐색 |                   [기타 레슨](https://www.acmicpc.net/problem/2343)                   | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/252 |
 | 33차시 | 2024.11.08 | 백트래킹 | [병원 거리 최소화](https://www.codetree.ai/training-field/frequent-problems/problems/min-of-hospital-distance/submissions?page=11&pageSize=5) | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/253 |
+| 34차시 | 2024.11.19 |  누적합  |                   [개똥벌레](https://www.acmicpc.net/problem/3020)                    |
