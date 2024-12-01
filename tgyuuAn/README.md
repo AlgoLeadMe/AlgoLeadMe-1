@@ -55,9 +55,6 @@
 | 51차시 | 2024.04.07 |  BFS  | <a href="https://www.acmicpc.net/problem/5213">과외맨</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/179
 | 52차시 | 2024.05.06 |  위상정렬  | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/182
 | 53차시 | 2024.05.09 |  백트래킹  | <a href="https://www.acmicpc.net/problem/12100">2048 (Easy)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/184
-| 51차시 | 2024.04.07 |  BFS  | <a href="https://www.acmicpc.net/problem/5213">과외맨</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/179
-| 52차시 | 2024.05.06 |  위상정렬  | <a href="https://www.acmicpc.net/problem/1516">게임 개발</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/182
-| 53차시 | 2024.05.09 |  백트래킹  | <a href="https://www.acmicpc.net/problem/12100">2048 (Easy)</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/184
 | 54차시 | 2024.05.14 |  다익스트라  | <a href="https://www.acmicpc.net/problem/9370">미확인 도착지</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/185
 | 55차시 | 2024.05.18 |  유니온 파인드  | <a href="https://www.acmicpc.net/problem/4195">친구 네트워크</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/189
 | 56차시 | 2024.05.18 |  BFS | <a href="https://www.acmicpc.net/problem/17836">공주님을 구해라!</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/193
@@ -88,4 +85,5 @@
 | 79차시 | 2024.10.12 |  이분 매칭  | <a href="https://www.acmicpc.net/problem/9576">책 나눠주기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/251
 | 80차시 | 2024.11.11 |  다익스트라  | <a href="https://www.acmicpc.net/problem/11779">최소비용 구하기 2</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/254
 | 81차시 | 2024.11.15 |  이분 탐색  | <a href="https://www.acmicpc.net/problem/1701">Cubeeditor</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/255
+| 82차시 | 2024.11.22 |  희소 배열  | <a href="https://www.acmicpc.net/problem/17435">합성함수와 쿼리</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/257
 ---
