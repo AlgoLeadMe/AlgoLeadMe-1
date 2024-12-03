@@ -86,4 +86,5 @@
 | 80차시 | 2024.11.11 |  다익스트라  | <a href="https://www.acmicpc.net/problem/11779">최소비용 구하기 2</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/254
 | 81차시 | 2024.11.15 |  이분 탐색  | <a href="https://www.acmicpc.net/problem/1701">Cubeeditor</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/255
 | 82차시 | 2024.11.22 |  희소 배열  | <a href="https://www.acmicpc.net/problem/17435">합성함수와 쿼리</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/257
+| 83차시 | 2024.12.01 |  수학 + 구현 | <a href="https://www.acmicpc.net/problem/1033">칵테일</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/259
 ---
