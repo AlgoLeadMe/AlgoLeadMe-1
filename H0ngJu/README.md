@@ -38,3 +38,4 @@
 | 34차시 | 2024.11.19 |  누적합   |                                               [개똥벌레](https://www.acmicpc.net/problem/3020)                                                | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/256 |
 | 35차시 | 2024.11.23 |    DP     |                                                [전깃줄](https://www.acmicpc.net/problem/2565)                                                 | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/258 |
 | 36차시 | 2024.12.02 |   수학    |                                               [머리 톡톡](https://www.acmicpc.net/problem/1241)                                               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/260 |
+| 36차시 | 2024.12.31 |  그리디   |                                              [회의실 배정](https://www.acmicpc.net/problem/1931)                                              | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/261 |
