@@ -39,3 +39,5 @@
 | 35차시 | 2024.11.23 |    DP     |                                                [전깃줄](https://www.acmicpc.net/problem/2565)                                                 | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/258 |
 | 36차시 | 2024.12.02 |   수학    |                                               [머리 톡톡](https://www.acmicpc.net/problem/1241)                                               | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/260 |
 | 36차시 | 2024.12.31 |  그리디   |                                              [회의실 배정](https://www.acmicpc.net/problem/1931)                                              | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/261 |
+
+| 40차시 | 2025.01.28 |  그리디   |                                              [흙길 보수하기](https://www.acmicpc.net/problem/1911)                                              | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/267 |
