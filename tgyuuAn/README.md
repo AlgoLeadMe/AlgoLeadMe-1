@@ -87,4 +87,5 @@
 | 83차시 | 2024.12.01 |  수학 + 구현 | <a href="https://www.acmicpc.net/problem/1033">칵테일</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/259
 | 84차시 | 2024.12.31 |  BFS | <a href="https://www.acmicpc.net/problem/4179">불!</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/261
 | 86차시 | 2025.01.16 |  이분 탐색  | <a href="https://www.acmicpc.net/problem/1114">통나무 자르기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/265
+| 87차시 | 2025.01.31 |  그리디  | <a href="https://www.acmicpc.net/problem/8980">택배</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/268
 ---
