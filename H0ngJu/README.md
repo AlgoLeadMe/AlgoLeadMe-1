@@ -41,3 +41,5 @@
 | 37차시 | 2024.12.31 |  그리디   |                                              [회의실 배정](https://www.acmicpc.net/problem/1931)                                              | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/262 |
 | 38차시 | 2024.01.06 |   정렬    |                                           [최소 회의실 개수](https://www.acmicpc.net/problem/19598)                                           | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/263 |
 | 39차시 | 2024.01.18 |   정렬    |                                                [컬러볼](https://www.acmicpc.net/problem/10800)                                                | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/266 |
+| 40차시 | 2025.01.28 |  그리디   |                                              [흙길 보수하기](https://www.acmicpc.net/problem/1911)                                              | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/267 |
+=======
