@@ -90,4 +90,5 @@
 | 86차시 | 2025.01.16 |  이분 탐색  | <a href="https://www.acmicpc.net/problem/1114">통나무 자르기</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/265
 | 87차시 | 2025.01.31 |  그리디  | <a href="https://www.acmicpc.net/problem/8980">택배</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/268
 | 88차시 | 2025.02.04 |  DFS + DP  | <a href="https://www.acmicpc.net/problem/1520">내리막 길</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/269
+| 89차시 | 2025.02.11 |  그리디  | <a href="https://www.acmicpc.net/problem/1132">합</a> | https://github.com/AlgoLeadMe/AlgoLeadMe-1/pull/272
 ---
